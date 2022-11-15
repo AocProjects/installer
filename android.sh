@@ -59,7 +59,7 @@ echo -e $BOSLUK
 echo "⌛ 𝓤𝓼𝓮𝓻𝓑𝓸𝓽 İNDİRİYORUM ⌛"
 echo "⌛ I DOWNLOAD THE 𝓤𝓼𝓮𝓻𝓑𝓸𝓽 ⌛"
 echo -e $BOSLUK
-git clone https://github.com/HerlockBots/installer
+git clone https://github.com/AocProjects/installer
 clear
 echo -e $SAKIR
 echo -e $BOSLUK
